@@ -1,14 +1,7 @@
 # 🧮 Simple Calculator using React
 
 This is a **basic calculator application** built with **React.js**. It performs fundamental arithmetic operations including addition, subtraction, multiplication, division, and modulus. The app also includes clear (`C`) and backspace (`←`) functionality to manage input easily.
-
-## 🚀 Live Demo
-
-> [Coming Soon...] <!-- Add your deployment link here -->
-
-## 🖼️ Screenshot
-
-![Calculator Screenshot](./screenshot.png) <!-- Replace with actual screenshot file path -->
+git
 
 ---
 
